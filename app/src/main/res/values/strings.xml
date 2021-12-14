@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_info">Info</string>
+    <string name="title_exit">Exit</string>
+</resources>
